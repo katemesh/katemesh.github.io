@@ -1,26 +1,11 @@
 ---
 layout: default
-is_contact: true
+title: Contact
+permalink: /contact/
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [kmesh@utexas.edu](mailto:kmesh@utexas.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Twitter: <a href="https://twitter.com/More_Mesh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @More_Mesh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* My ORCID identifier: <a href="https://orcid.org/0000-0002-0904-6449" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-0904-6449</a>
