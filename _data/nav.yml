@@ -1,8 +1,11 @@
 - name: "Contact"
-  link: "contact"
-
-- name: "Resume"
-  link: "resume.pdf"
-
-- name: "About"
-  link: "/researcher/"
+  link: "/MeshSite/contact/"
+  
+- name: "CV"
+  link: "/MeshSite/2018-01-21_CV_Mesh.pdf"    
+  
+- name: "News"
+  link: "/MeshSite/news/"  
+ 
+- name: "Publications"
+  link: "/MeshSite/publications/"
