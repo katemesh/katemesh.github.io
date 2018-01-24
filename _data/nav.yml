@@ -1,11 +1,11 @@
 - name: "Contact"
-  link: "/MeshSite/contact/"
+  link: "/contact/"
   
 - name: "CV"
-  link: "/MeshSite/2018-01-21_CV_Mesh.pdf"    
+  link: "/2018-01-21_CV_Mesh.pdf"    
   
 - name: "News"
-  link: "/MeshSite/news/"  
+  link: "/news/"  
  
 - name: "Publications"
-  link: "/MeshSite/publications/"
+  link: "/publications/"
