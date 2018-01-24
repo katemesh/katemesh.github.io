@@ -7,12 +7,12 @@ permalink: /publications/
 #### **Articles**
 
 Nonaka, A., Mesh, K. & Sagara, K. (2015). Signed Names in Japanese Sign Language: 
-Linguistic and Cultural Analyses. Sign Language Studies: 16:1. [[pdf]]("SN_JSL.pdf") 
+Linguistic and Cultural Analyses. Sign Language Studies: 16:1. [[pdf]](SN_JSL.pdf) 
 
 
 Mesh, K. (2012). What the deaf can do, the hearing can, too: Performance in an ASL 
 boundary perception task. LSA Annual Meeting Extended Abstracts. 
-[[pdf]]("2012_LSA_Abstract.pdf")
+[[pdf]](2012_LSA_Abstract.pdf)
 
 #### **Book Chapters**
 
@@ -47,4 +47,4 @@ Texas Data Respository, V1. [doi:10.18738/T8/CEWOEX](https://doi.org/doi:10.1873
 
 Points of Comparison: What Indicating Gestures tell
 Us About the Origins of Signs in San Juan Quiahije
-Chatino Sign Language [[pdf]]({{ "/assets/mydoc.pdf" | absolute_url }})
+Chatino Sign Language [[pdf]](Mesh_Thesis_2017-12-20.pdf)
