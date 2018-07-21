@@ -11,8 +11,11 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: $Serif;
+    font-size: 110%;
+    font-weight: 300;
     height: 100%;
+    padding-bottom: 300px;
 }
 a {
     text-decoration: none;

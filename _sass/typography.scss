@@ -36,12 +36,51 @@
         padding: 2px 8px 2px 8px;
         font-style: italic;
     }
+    h1 {
+    	font-size: 160%;
+    	font-weight: 500;
+	}
+    h2 {
+    	font-size: 140%;
+    	font-weight: 500;
+	}
+    h3 {
+    	font-size: 120%;
+    	font-weight: 500;
+    }
+    h4 {
+    	font-size: 100%;
+    	font-weight: 500;
+    }
+    strong {
+    	font-weight: 700;
+    }
+    .about-paragraph {
+        padding-bottom: 35px;
+    }
     .profile-picture {
         height: $image-size;
         width: $image-size;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
+        border-radius: 50%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
+    .side-picture {
+        height: $image-size;
+        width: $image-size;
+        position: relative;
+        margin: -5px 20px 0px 0px;
+        float: left;
         border-radius: 50%;
         p & {
             padding: 0;

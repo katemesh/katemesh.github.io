@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-#### **Articles**
+### Articles
 
 Nonaka, A., Mesh, K. & Sagara, K. (2015). Signed Names in Japanese Sign Language: 
 Linguistic and Cultural Analyses. Sign Language Studies: 16:1. [[pdf]](/SN_JSL.pdf) 
@@ -14,14 +14,14 @@ Mesh, K. (2012). What the deaf can do, the hearing can, too: Performance in an A
 boundary perception task. LSA Annual Meeting Extended Abstracts. 
 [[pdf]](/2012_LSA_Abstract.pdf)
 
-#### **Book Chapters**
+### Book Chapters
 
 Mesh, K. & Hou, L. (Accepted for publication, spring 2018). From Emblems to Grammar: 
 Negation in San Juan Quiahije Chatino Sign Language. In Le Guen, O., Safar, J., & Coppola,
  M., (Eds.): Emerging Sign Languages of the Americas. Berlin, Boston: De Gruyter Mouton. 
 
 
-#### **Digital Products**
+### Digital Products
 
 Mesh, K. & Hou, L. (2018). “Gesture, Speech and Sign in Chatino Communities.” 
 The Endangered Languages Archive. Access: Public. Handle: [2196/00-0000-0000-0010-119F-A](http://hdl.handle.net/2196/00-0000-0000-0010-119F-A)
@@ -43,7 +43,7 @@ Texas Data Respository, V1. [doi:10.18738/T8/CEWOEX](https://doi.org/doi:10.1873
 
   
 
-#### **Dissertation**
+### Dissertation
 
 Points of Comparison: What Indicating Gestures tell
 Us About the Origins of Signs in San Juan Quiahije
