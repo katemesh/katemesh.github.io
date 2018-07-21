@@ -48,3 +48,5 @@ Texas Data Respository, V1. [doi:10.18738/T8/CEWOEX](https://doi.org/doi:10.1873
 Points of Comparison: What Indicating Gestures tell
 Us About the Origins of Signs in San Juan Quiahije
 Chatino Sign Language [[pdf]](/MESH-DISSERTATION-2017.pdf)
+
+

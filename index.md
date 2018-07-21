@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="Kate-Tooned-medium.jpg">
+<img class="profile-picture" src="Kate_for_web.jpg">
 ---
 I study how hearing people gesture while they speak, and how deaf people 
 adapt many of these gestures for use as signs in emerging signed languages (young 

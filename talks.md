@@ -4,6 +4,31 @@ title: Talks
 permalink: /talks/
 ---
 
+Invited Talks
+
+Dartmouth College Linguistics Colloquium
+
+CIESAS, Primer Coloquio Internacional sobre Lengua de Señas Emergentes en Las Américas, Mexico City, Mexico.
+
+Tufts University, Emerging Sign Languages & The Big Picture Workshop 
+
+Charles University Deaf Studies Speaker Series, Prague, Czech Republic
+
+
+Conference Activity
+
+
+2018 Hou, L., & Mesh, K. “Points of Comparison: What Pointing Gestures tell Us About the 
+Origins of Signs in San Juan Quiahije Chatino Sign Language.” Paper presentation at the 
+8th conference of the International Society for Gesture Studies. Cape Town, South Africa, 
+July 4–8.
+
+
+2018 Hou, L., & Mesh, K. “From Emblems to Grammar: Gestural contributions to an emerging
+sign language in Mexico.” Paper presentation at the 8th conference of the International
+Society for Gesture Studies. Cape Town, South Africa, July 4–8.
+
+
 2017 Invited participation. Workshop: The Origins of Language: A Collaborative,
 Cross-linguistic Approach. Sponsored by the Radcliffe Institute for Advanced
 Study at Harvard University. Cambridge, MA. June 15–16.
