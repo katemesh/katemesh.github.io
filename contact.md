@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-* Email: [kmesh@utexas.edu](mailto:kmesh@utexas.edu)
+Email: [kmesh@utexas.edu](mailto:kmesh@utexas.edu)
 
 <a href="https://twitter.com/More_Mesh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @More_Mesh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
