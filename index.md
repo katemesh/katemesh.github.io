@@ -13,7 +13,7 @@ real-world surroundings.
 
 {:.about-paragraph}
 <img class="side-picture" src="CHAT_NEG1.jpg">
-Since 2012, I’ve worked with of UT Austin’s [Chatino Language Documentation Project](https://sites.google.com/site/lenguachatino/)
+Since 2012, I’ve worked with UT Austin’s [Chatino Language Documentation Project](https://sites.google.com/site/lenguachatino/)
  to investigate how hearing and deaf people in one indigenous Chatino community of Mexico use gestures of the hands and body to
  communicate. My dissertation documented the strategies hearing and deaf community members use when directing
   attention to items in the space around them, and showed how signers have adapted the community’s pointing conventions to integrate them into their emerging language. 
