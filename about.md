@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 I study how hearing people gesture while they speak, and how deaf people 
-adapt many of these gestures for use as signs in young signed languages that are just now being created. 
+adapt many of these gestures for use as signs in young sign languages that are just now being created. 
 My research is fieldwork-based and typological, comparing how gesturers and signers across cultures recruit 
 the body for meaning-making, and focusing in particular on how people use the body to draw attention to their 
 real-world surroundings. 
@@ -19,8 +19,7 @@ Since 2012, I’ve worked with of UT Austin’s [Chatino Language Documentation 
  
  Currently I am a postdoctoral researcher at the University of Haifa, researching gesture 
  and signed language as a member of Wendy Sandler's [Grammar of the Body](http://gramby.haifa.ac.il)
-research group. I lead a project comparing the communicative strategies of Hebrew speakers and
- Israeli Sign Language (ISL) users. The project investigates how speakers and signers use gaze and manual pointing 
+research group. I lead a project comparing how Hebrew speakers and Israeli Sign Language (ISL) users employ gaze and manual pointing 
  with two functions: (i) to direct attention to items in the real space around them (locating), and (ii) to 
  maintain focus on characters who are introduced and described in complex narratives (reference tracking). 
   Early findings from the project reveal that speakers and signers alike use gaze direction to distinguish
