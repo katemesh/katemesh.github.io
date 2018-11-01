@@ -20,7 +20,7 @@ Since 2012, I’ve worked with UT Austin’s [Chatino Language Documentation Pro
  
  
 {:.about-paragraph}
-<img class="side-picture" src="HE_pointing.jpg">
+<img class="side-picture" src="HE_point.jpg">
 Currently I am a postdoctoral researcher at the University of Haifa, researching gesture 
  and signed language as a member of Wendy Sandler's [Grammar of the Body](http://gramby.haifa.ac.il)
 research group. I lead a project comparing how Hebrew speakers and Israeli Sign Language (ISL) users employ gaze and manual pointing 
