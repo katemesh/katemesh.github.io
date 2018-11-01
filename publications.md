@@ -6,6 +6,9 @@ permalink: /publications/
 
 ### Articles
 
+Mesh, K. & Hou, L. (Under review.) Negation in San Juan Quiahije Chatino Sign Language: 
+The Integration and Adaptation of Negative Emblems. 
+
 Nonaka, A., Mesh, K. & Sagara, K. (2015). Signed Names in Japanese Sign Language: 
 Linguistic and Cultural Analyses. Sign Language Studies: 16:1. [[pdf]](/SN_JSL.pdf) 
 
@@ -16,18 +19,16 @@ boundary perception task. LSA Annual Meeting Extended Abstracts.
 
 ### Book Chapters
 
-Mesh, K. & Hou, L. (Accepted for publication, spring 2018). From Emblems to Grammar: 
-Negation in San Juan Quiahije Chatino Sign Language. In Le Guen, O., Safar, J., & Coppola,
- M., (Eds.): Emerging Sign Languages of the Americas. Berlin, Boston: De Gruyter Mouton. 
+Cooperrider, K. & Mesh, K. (Under review.) Pointing in gesture and sign: One tool, many uses.
 
 
 ### Digital Products
 
-Mesh, K. & Hou, L. (2018). “Gesture, Speech and Sign in Chatino Communities.” 
-The Endangered Languages Archive. Access: Public. Handle: [2196/00-0000-0000-0010-119F-A](http://hdl.handle.net/2196/00-0000-0000-0010-119F-A)
+Mesh, K.(2018). “Gesture, Speech and Sign in Chatino Communities.” 
+The Endangered Languages Archive. Access: Public. [Online deposit](https://elar.soas.ac.uk/Collection/MPI1053087)
 
-Hou, L. & Mesh, K.  (2018). “Investigating an Undocumented Sign Language in a Chatino Speech/Sign Community.” 
-The Endangered Languages Archive. Access: Public. Handle: [2196/00-0000-0000-000F-BF38-2](http://hdl.handle.net/2196/00-0000-0000-000F-BF38-2)
+Hou, L. & Mesh, K.  (2018). “Documenting Chatino Sign Language.” 
+The Endangered Languages Archive. Access: Public. Handle: [Online deposit](https://elar.soas.ac.uk/Collection/MPI1031992)
 
 Mesh, K. (2017). “Local environment interview data for the dissertation, Points of Comparison: 
 What Indicating Gestures tell us About the Origins of Signs in San Juan Quiahije Chatino Sign Language.” Texas Data Repository Dataverse, V1. 
@@ -45,8 +46,9 @@ Texas Data Respository, V1. [doi:10.18738/T8/CEWOEX](https://doi.org/doi:10.1873
 
 ### Dissertation
 
-Points of Comparison: What Indicating Gestures tell
+Mesh, K. (2017.) Points of Comparison: What Indicating Gestures tell
 Us About the Origins of Signs in San Juan Quiahije
-Chatino Sign Language [[pdf]](/MESH-DISSERTATION-2017.pdf)
+Chatino Sign Language. Unpublished doctoral dissertation. The University of Texas at Austin. 
+[[pdf]](/MESH-DISSERTATION-2017.pdf)
 
 
