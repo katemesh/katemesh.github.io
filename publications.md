@@ -31,7 +31,7 @@ The Endangered Languages Archive. Access: Public. Handle: [2196/00-0000-0000-000
 
 Mesh, K. (2017). “Local environment interview data for the dissertation, Points of Comparison: 
 What Indicating Gestures tell us About the Origins of Signs in San Juan Quiahije Chatino Sign Language.” Texas Data Repository Dataverse, V1. 
-[doi:10.18738/T8/PJXZJI](https://doi.org/doi:10.18738/T8/RJP2JR)
+[doi:10.18738/T8/PJXZJI](https://doi.org/doi:10.18738/T8/PJXZJI)
 
 Mesh, K. (2017). “Metalinguistic interview data for the dissertation, Points of Comparison: 
 What Indicating Gestures tell us About the Origins of Signs in San Juan Quiahije Chatino Sign Language.” 
