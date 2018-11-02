@@ -6,6 +6,9 @@
   
 - name: "News"
   link: "/news/"  
+  
+  - name: "Talks"
+  link: "/talks/"
  
 - name: "Publications"
   link: "/publications/"
