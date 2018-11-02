@@ -6,6 +6,8 @@ permalink: /talks/
 
 Invited Talks
 
+Tel Aviv Linguistics Department Colloquium [[pdf]](/2018-10-25_Invited_TAU_Colloqium_Mesh.pdf) 
+
 Dartmouth College Linguistics Colloquium
 
 CIESAS, Primer Coloquio Internacional sobre Lengua de Señas Emergentes en Las Américas, Mexico City, Mexico.
