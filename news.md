@@ -9,3 +9,5 @@ News coverage about my joint work on Chatino languages with [Lynn Hou](https://s
 *  Al-Jazeera America: ["The discovery of a new language can help explain how we communicate."](http://america.aljazeera.com/articles/2014/4/17/inventing-a-language.html)
 
 *  The Morning News: ["The medium."](https://themorningnews.org/article/the-medium)
+
+* .
