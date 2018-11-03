@@ -7,15 +7,15 @@ permalink: /publications/
 ### Articles
 
 Mesh, K. & Hou, L. (Under review.) Negation in San Juan Quiahije Chatino Sign Language: 
-The Integration and Adaptation of Negative Emblems. 
+The Integration and Adaptation of Negative Emblems. [[pdf]](/PDFs/20180822_Mesh&Hou_Negation_SJQCSL.pdf)
 
 Nonaka, A., Mesh, K. & Sagara, K. (2015). Signed Names in Japanese Sign Language: 
-Linguistic and Cultural Analyses. Sign Language Studies: 16:1. [[pdf]](/SN_JSL.pdf) 
+Linguistic and Cultural Analyses. Sign Language Studies: 16:1. [[pdf]](/PDFs/SN_JSL.pdf) 
 
 
 Mesh, K. (2012). What the deaf can do, the hearing can, too: Performance in an ASL 
 boundary perception task. LSA Annual Meeting Extended Abstracts. 
-[[pdf]](/2012_LSA_Abstract.pdf)
+[[pdf]](/PDFs/2012_LSA_Abstract.pdf)
 
 ### Book Chapters
 
@@ -49,6 +49,9 @@ Texas Data Respository, V1. [doi:10.18738/T8/CEWOEX](https://doi.org/doi:10.1873
 Mesh, K. (2017.) Points of Comparison: What Indicating Gestures tell
 Us About the Origins of Signs in San Juan Quiahije
 Chatino Sign Language. Unpublished doctoral dissertation. The University of Texas at Austin. 
-[[pdf]](/MESH-DISSERTATION-2017.pdf)
+[[pdf]](/PDFs/MESH-DISSERTATION-2017.pdf)
+
+
+
 
 

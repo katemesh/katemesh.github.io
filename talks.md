@@ -4,90 +4,61 @@ title: Talks
 permalink: /talks/
 ---
 
-Invited Talks
+### Invited Talks
 
-Tel Aviv Linguistics Department Colloquium [[pdf]](/2018-10-25_Invited_TAU_Colloqium_Mesh.pdf) 
+Mesh, K. (2018). *"Gestural analogues & the origins of signs in San Juan Quiahije Chatino Sign Language."* 
+Invited  Talk. Tel Aviv University Linguistics Department Colloquium. October 25. 
+[[slides]](/PDFs/2018-10-25_Invited_TAU_Colloquium_Mesh.pdf) 
 
-Dartmouth College Linguistics Colloquium
+Mesh, K. (2018). *"When grammaticalization is seen & not heard: Pointing in signed language emergence."* 
+Invited Talk. Dartmouth College Linguistics Department Colloquium. February 7. 
+[[slides]](/PDFs/2018_02_07_Dartmouth_Gramm-in-SLs_Mesh.pdf)
 
-CIESAS, Primer Coloquio Internacional sobre Lengua de Señas Emergentes en Las Américas, Mexico City, Mexico.
+Mesh, K. & Hou, L. (2015). *“La Convencionalización del Señalamiento y Más en Una Ecología de Habla Chatina.”*
+Invited talk. Workshop: Primer Coloquio Internacional sobre lenguas de señas emergentes en las Américas. 
+Mexico City, Mexico. Sept 10–11. [[slides]](/PDFs/2015-09-01_Coloquio_Lenguas_Emergentes_Hou&Mesh.pdf)
 
-Tufts University, Emerging Sign Languages & The Big Picture Workshop 
+Center for Cognitive Studies at Tufts University: Emerging Sign Languages & The Big Picture Workshop (2015):
+*Conventionalization of pointing & gestural motion descriptors in a Chatino speech ecology.* (with Lynn Hou.)
 
-Charles University Deaf Studies Speaker Series, Prague, Czech Republic
+Mesh, K. (2014). “Classifying Signed Languages: ‘Urban Sign’, ‘Village Sign’, ‘Home Sign’ and an Instructive Border Case”, 
+Invited Talk. Deaf Studies Speaker Series, Charles University. Prague, Czech Republic & Austin, Texas. October 24.
 
 
-Conference Activity
 
 
-2018 Hou, L., & Mesh, K. “Points of Comparison: What Pointing Gestures tell Us About the 
-Origins of Signs in San Juan Quiahije Chatino Sign Language.” Paper presentation at the 
+
+### Selected Conference Talks
+
+Mesh, K. (2018.) *Points of Comparison: What Pointing Gestures tell Us About the 
+Origins of Signs in San Juan Quiahije Chatino Sign Language.* Paper presentation at the 
 8th conference of the International Society for Gesture Studies. Cape Town, South Africa, 
-July 4–8.
+July 4–8. [[slides]](/PDFs/2018-07-06_ISGS8_Mesh.pdf)
 
+Hou, L., & Mesh, K.(2018.) *From Emblems to Grammar: Gestural contributions to an emerging
+sign language in Mexico.* Paper presentation at the 8th conference of the International
+Society for Gesture Studies. Cape Town, South Africa, July 4–8. [[slides]](/PDFs/2018-07-07_ISGS8_Hou&Mesh.pdf)
 
-2018 Hou, L., & Mesh, K. “From Emblems to Grammar: Gestural contributions to an emerging
-sign language in Mexico.” Paper presentation at the 8th conference of the International
-Society for Gesture Studies. Cape Town, South Africa, July 4–8.
+Mesh, K., Dachkovsky, S., Stamp, R., & Sandler, W. (2018.) *Changes in the Compositionality of 
+Indicating Signals in the Course of Grammaticalization.* Contribution to the workshop, 
+“What is Compositional About Language,” EVOLANG 12. April 16–19. Torun, Poland. [[slides]](/PDFs/2018-04-16_EVOLANG_Mesh_et_al.pdf)
 
+Hou, L., & Mesh, K. (2018). Gestural foundations of an emerging Language: How signers adopt and adapt gestures. 
+Paper presentation at the 2018 Meeting of the American Association for the Advancement of Science (AAAS). 
+Austin, TX. Feb. 16. [[slides]](/PDFs/2018-02-16_AAAS_Hou&Mesh.pdf)
 
-2017 Invited participation. Workshop: The Origins of Language: A Collaborative,
-Cross-linguistic Approach. Sponsored by the Radcliffe Institute for Advanced
-Study at Harvard University. Cambridge, MA. June 15–16.
+Mesh, K. (2017.) *This Uphill: How Manual Gestures Supplement Fixed Bearing Descriptions
+in San Juan Quiahije Chatino.* Paper presentation at the 91st LSA Annual
+Meeting. Austin, TX. January 5–8. [[slides]](/PDFs/2017-01-06_LSA_Mesh.pdf)
 
-2017 Mesh, K. “This Uphill: How Manual Gestures Supplement Fixed Bearing Descriptions
-in San Juan Quiahije Chatino.” Paper presentation at the 91st LSA Annual
-Meeting. Austin, TX. January 5–8.
-
-2016 Mesh, K. “Universal Features of Manual Pointing: Candidates and Concerns.”
+Mesh, K. (2016.) *Universal Features of Manual Pointing: Candidates and Concerns.*
 Invited position paper. Specialist Meeting on Universals and Variation in Spatial
 Referencing across Cultures and Languages. Sponsored by the Center for Spatial
 Studies at the University of California, Santa Barbara. Santa Barbara, CA.
-December 7–9.
+December 7–9. [[slides]](/PDFs/2016-12-07_Spatial@UCSB_Mesh.pdf)
 
-2016 Mesh, K. “One Emblem in Two Types of Talk: How Speakers and Signers use the
-‘Go’ Gesture in a Chatino Community.” Paper presentation at the 7th conference
-of the International Society for Gesture Studies. Paris, France, July 18–23.
+Mesh, K. (2016.) *One Emblem in Two Types of Talk: How Speakers and Signers use the
+‘Go’ Gesture in a Chatino Community.* Paper presentation at the 7th conference
+of the International Society for Gesture Studies. Paris, France, July 18–23. [[slides]](/PDFs/2016-07-18_ISGS7_Mesh.pdf)
 
-2015 Mesh, K. & Hou, L. “La Convencionalización del Señalamiento y Más en Una
-Ecología de Habla Chatina.” Invited talk. Workshop: Primer Coloquio Internacional
-sobre lengua de señas emergentes en las Américas. Mexico City, Mexico.
-Sept 10–11.
 
-2015 Hou, L. & Mesh, K. “Conventionalization of Pointing & Gestural Motion Descriptors
-in a Chatino Speech Ecology.” Invited talk. Workshop: Emerging Sign
-Languages & The Big Picture. Sponsored by the Center for Cognitive Studies at
-Tufts University. Medford, MA. May 8–9.
-
-2014 Mesh, K. “Classifying Signed Languages: ‘Urban Sign’, ‘Village Sign’, ‘Home
-Sign’ and an Instructive Border Case”, Guest Lecture at Charles University.
-Prague, Czech Republic & Austin, TX. October 24.
-
-2014 Mesh, K. & Hou, L. “Repair Initiation in Gesture and Sign: A Study of Chatino
-Sign Language”, paper presentation at the 6th conference of the International
-Society for Gesture Studies. San Diego, CA. July 8–11.
-
-2014 Hou, L. & Mesh, K. “Lexicalization of negative gestures in Chatino Sign”, paper
-presentation at the 6th conference of the International Society for Gesture Studies.
-San Diego, CA. July 8–11.
-
-2013 Hou, L. & Mesh, K. “Negation strategies of deaf & hearing users of Chatino Sign
-Language,” paper presentation at the 14th Texas Linguistic Society Conference.
-Austin, TX. November 1–3.
-
-2013 Mesh, K. & Hou, L. “Mutual intelligiblity in unfolding discourse: A study of
-interaction in Chatino Sign Language,” paper presentation at the 6th Conference
-on Indigenous Languages of Latin America (CILLA VI). Austin, TX. October 24–
-26.
-
-2013 Hou, L. & Mesh, K. “Negation in Chatino Sign Language,” poster presentation at
-the 13th Theoretical Issues in Sign Language Research conference. London, U.K.,
-July 10–13.
-
-2012 Mesh, K. “Performance in an ASL boundary perception task”, presentation at
-the 34th Annual Conference of the Germany Linguistic Society (DfGS). Frankfurt,
-Germany. March 6–9
-
-2012 Mesh, K. “What the deaf can do, the hearing can, too: Performance in an ASL
-boundary perception task”, poster presentation at the 86th LSA Annual Meeting.
-Portland, OR, January 5–8

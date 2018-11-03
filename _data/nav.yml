@@ -1,14 +1,18 @@
-- name: "Contact"
-  link: "/contact/"
-  
+
 - name: "CV"
-  link: "/2018-10-12_CV_Mesh.pdf"    
+  link: "/PDFs/2018-10-12_CV_Mesh.pdf"    
   
 - name: "News"
   link: "/news/"  
   
-  - name: "Talks"
+- name: "Teaching"
+  link: "/teaching/"    
+  
+- name: "Talks"
   link: "/talks/"
  
 - name: "Publications"
   link: "/publications/"
+
+- name: "Research"
+  link: "/research/"
