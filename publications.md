@@ -29,6 +29,14 @@ The Endangered Languages Archive. Access: Public. [Online deposit](https://elar.
 
 Hou, L. & Mesh, K.  (2018). “Documenting Chatino Sign Language.” 
 The Endangered Languages Archive. Access: Public. Handle: [Online deposit](https://elar.soas.ac.uk/Collection/MPI1031992)
+  
+
+### Dissertation and Corresponding Datasets
+
+Mesh, K. (2017.) Points of Comparison: What Indicating Gestures tell
+Us About the Origins of Signs in San Juan Quiahije
+Chatino Sign Language. Unpublished doctoral dissertation. The University of Texas at Austin. 
+[[pdf]](/PDFs/MESH-DISSERTATION-2017.pdf)
 
 Mesh, K. (2017). “Local environment interview data for the dissertation, Points of Comparison: 
 What Indicating Gestures tell us About the Origins of Signs in San Juan Quiahije Chatino Sign Language.” Texas Data Repository Dataverse, V1. 
@@ -41,17 +49,5 @@ Texas Data Repository Dataverse, V1. [doi:10.18738/T8/RJP2JR](https://doi.org/do
 Mesh, K. (2017). Selected video examples for the dissertation, Points of Comparison: What Indicating 
 Gestures tell us About the Origins of Signs in San Juan Quiahije Chatino Sign Language
 Texas Data Respository, V1. [doi:10.18738/T8/CEWOEX](https://doi.org/doi:10.18738/T8/CEWOEX)
-
-  
-
-### Dissertation
-
-Mesh, K. (2017.) Points of Comparison: What Indicating Gestures tell
-Us About the Origins of Signs in San Juan Quiahije
-Chatino Sign Language. Unpublished doctoral dissertation. The University of Texas at Austin. 
-[[pdf]](/PDFs/MESH-DISSERTATION-2017.pdf)
-
-
-
 
 
