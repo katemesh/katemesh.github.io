@@ -30,6 +30,12 @@ Invited Talk. Deaf Studies Speaker Series, Charles University. Prague, Czech Rep
 
 ### Selected Conference Talks
 
+
+Mesh, K., Dachkovsky, S., Stamp, S., & Sandler, W. (2019.) *Gaze Delinks from Pointing as a Result 
+of Grammaticalization: Evidence from Israeli Sign Language.* Paper presentation at the 
+93rd Linguistic Society of America Annual Meeting. New York, NY. January 3–7.
+[[slides]](/PDFs/2019-01-06_LSA_pointing_and_gaze_updatednotes.pdf)
+
 Mesh, K. (2018.) *Points of Comparison: What Pointing Gestures tell Us About the 
 Origins of Signs in San Juan Quiahije Chatino Sign Language.* Paper presentation at the 
 8th conference of the International Society for Gesture Studies. Cape Town, South Africa, 
