@@ -6,8 +6,8 @@ permalink: /publications/
 
 ### Articles
 
-Mesh, K. & Hou, L. (Under review.) Negation in San Juan Quiahije Chatino Sign Language: 
-The Integration and Adaptation of Negative Emblems. [[pdf]](/PDFs/20180822_Mesh&Hou_Negation_SJQCSL.pdf)
+Mesh, K. & Hou, L. (In Press.) Negation in San Juan Quiahije Chatino Sign Language: 
+The Integration and Adaptation of Negative Emblems. [[pdf]](/PDFs/20190804_Mesh&Hou_Negation_SJQCSL.pdf)
 
 Nonaka, A., Mesh, K. & Sagara, K. (2015). Signed Names in Japanese Sign Language: 
 Linguistic and Cultural Analyses. Sign Language Studies: 16:1. [[pdf]](/PDFs/SN_JSL.pdf) 
@@ -19,7 +19,7 @@ boundary perception task. LSA Annual Meeting Extended Abstracts.
 
 ### Book Chapters
 
-Cooperrider, K. & Mesh, K. (Under review.) Pointing in gesture and sign: One tool, many uses.
+Cooperrider, K. & Mesh, K. (Under review.) Pointing in gesture and sign: One tool, many uses. [[pdf]](PDFs/Cooperrider-Mesh_Pointing+in+gesture+and+sign.pdf)
 
 
 ### Digital Products
