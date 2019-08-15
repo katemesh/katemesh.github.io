@@ -30,6 +30,9 @@ Invited Talk. Deaf Studies Speaker Series, Charles University. Prague, Czech Rep
 
 ### Selected Conference Talks
 
+Mesh, K. “Open Description Impacts Documentation: A Case Study from San Juan Quiahije Chatino.” 
+Paper presentation at the SSILA 2019 Meeting. New York, NY. January 3–7. [[abstract]](/PDFs/2018-07-31_SSILA_abstract.pdf) [[slides]](/PDFs/2019-01-05_SSILA_Open-Description.pdf
+)
 
 Mesh, K., Dachkovsky, S., Stamp, S., & Sandler, W. (2019.) *Gaze Delinks from Pointing as a Result 
 of Grammaticalization: Evidence from Israeli Sign Language.* Paper presentation at the 
