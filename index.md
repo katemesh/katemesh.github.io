@@ -10,7 +10,7 @@ My research is fieldwork-based and typological: I compare how gesturers and sign
 the body for meaning-making, focusing on how people use the body to draw attention to their 
 real-world surroundings. 
 
-Email: [kmesh@utexas.edu](mailto:kmesh@utexas.edu) 
+Email: [kate.mesh@lu.humlab.se](mailto:kate.mesh@humlab.lu.se) 
 
 <a href="https://twitter.com/More_Mesh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @More_Mesh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
