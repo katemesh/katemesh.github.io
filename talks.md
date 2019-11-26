@@ -30,6 +30,11 @@ Invited Talk. Deaf Studies Speaker Series, Charles University. Prague, Czech Rep
 
 ### Selected Conference Talks
 
+
+Mesh, K. “Cómo la ‘descripción abierta’ impacta la documentación: Un caso de estudio en el  chatino de San Juan Quiahije.” 
+Paper presentation at the CILLA 2019 Meeting. Austin, TX.  October 10-12. [[abstract]](/PDFs/Mesh_K_CILLAIX.pdf) [[slides]](/PDFs/2019-10-10_CILLA_Desc_Abierta_v4.pdf
+)
+
 Mesh, K. “Open Description Impacts Documentation: A Case Study from San Juan Quiahije Chatino.” 
 Paper presentation at the SSILA 2019 Meeting. New York, NY. January 3–7. [[abstract]](/PDFs/2018-07-31_SSILA_abstract.pdf) [[slides]](/PDFs/2019-01-05_SSILA_Open-Description.pdf
 )
