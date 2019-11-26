@@ -7,7 +7,7 @@ permalink: /publications/
 ### Articles
 
 Mesh, K. & Hou, L. (In Press.) Negation in San Juan Quiahije Chatino Sign Language: 
-The Integration and Adaptation of Negative Emblems. [[pdf]](/PDFs/20190804_Mesh&Hou_Negation_SJQCSL.pdf)
+The Integration and Adaptation of Negative Emblems. GESTURE: 17:3 [[pdf]](/PDFs/20191125_Mesh&Hou_Negation_SJQCSL.pdf)
 
 Nonaka, A., Mesh, K. & Sagara, K. (2015). Signed Names in Japanese Sign Language: 
 Linguistic and Cultural Analyses. Sign Language Studies: 16:1. [[pdf]](/PDFs/SN_JSL.pdf) 
