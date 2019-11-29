@@ -22,7 +22,7 @@ boundary perception task. LSA Annual Meeting Extended Abstracts.
 Cooperrider, K. & Mesh, K. (Under review.) Pointing in gesture and sign: One tool, many uses. [[pdf]](PDFs/Cooperrider-Mesh_Pointing+in+gesture+and+sign.pdf)
 
 
-### Digital Products
+### Curated Documentary Linguistic Datasets
 
 Mesh, K.(2018). “Gesture, Speech and Sign in Chatino Communities.” 
 The Endangered Languages Archive. Access: Public. [Online deposit](https://elar.soas.ac.uk/Collection/MPI1053087)
