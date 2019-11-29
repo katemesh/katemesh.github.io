@@ -8,7 +8,7 @@ Since 2012, I’ve investigated how people San Juan Quiahije, an indigenous Chat
 
 
 {:.research-table}
-|<img class="side-picture-square" src="/Images/Recorrido.jpg">|Hearing people in the community blend visual and auditory language to create complex multimodal messages.  I investigate how these messages are formed on the move, during navigational activities. My current projects focus on how demonstrative expressions (the rough equivalents of English 'this' and 'that') and direction terms are paired with pointing gestures. |
+|<img class="side-picture-square" src="/Images/Recorrido2000.jpg">|Hearing people in the community blend visual and auditory language to create complex multimodal messages.  I investigate how these messages are formed on the move, during navigational activities. My current projects focus on how demonstrative expressions (the rough equivalents of English 'this' and 'that') and direction terms are paired with pointing gestures. |
 
 
 
