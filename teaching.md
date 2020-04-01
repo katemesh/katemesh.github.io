@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ### Teaching As  to Workshop Co-Instructor
 
-Spring 2020-- Fall 2021: La coexpresividad y la multimodalidad en la interacción lingüística en Mesoamérica, CIESAS Sureste and UC San Diego (UC-Mexus CONACYT).
+Spring 2020-- Fall 2021: La coexpresividad y la multimodalidad en la interacción lingüística en Mesoamérica, CIESAS Sureste and UC San Diego (UC-Mexus CONACYT).\\
 *Series of three intensive workshops on multimodal language analysis. Organizers: John Haviland and Telma Can Pixabaj.*
 
 ### Teaching As Course Instructor
