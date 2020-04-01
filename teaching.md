@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Workshop Co-Instructor
+### Teaching As Workshop Co-Instructor
 
 Srping 2020-- Fall 2021: La coexpresividad y la multimodalidad en la interacción lingüística en Mesoamérica. CIESAS Sureste and UC San Diego (UC-Mexus CONACYT).
 *Intensive workshop on multimodal language analysis, Organizers: John Haviland and Telma Can Pixabaj.*
