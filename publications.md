@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Articles
 
-Mesh, K., Cruz, C., van de Weijer, J., Burenhult, N., and Gullberg, M.  (Under review.) Effects of scale on multimodal deixis: Evidence from Quiahije Chatino
+Mesh, K., Cruz, E., van de Weijer, J., Burenhult, N., and Gullberg, M.  (Under review.) Effects of scale on multimodal deixis: Evidence from Quiahije Chatino
 
 Mesh, K. & Hou, L. (2018.) Negation in San Juan Quiahije Chatino Sign Language: 
 The Integration and Adaptation of Negative Emblems. GESTURE: 17:3 [[pdf]](/PDFs/20191125_Mesh&Hou_Negation_SJQCSL.pdf) [[supplementary materials]](https://doi.org/10.18738/T8/XUX25E)

@@ -1,16 +1,16 @@
 
 - name: "CV"
-  link: "/PDFs/Mesh_CV_20200401.pdf"    
-  
+  link: "/PDFs/Mesh_CV_20200827.pdf"    
+
 - name: "News"
-  link: "/news/"  
-  
+  link: "/news/"
+
 - name: "Teaching"
-  link: "/teaching/"    
-  
+  link: "/teaching/"
+
 - name: "Talks"
   link: "/talks/"
- 
+
 - name: "Publications"
   link: "/publications/"
 
