@@ -20,7 +20,7 @@ boundary perception task. LSA Annual Meeting Extended Abstracts.
 
 ### Book Chapters
 
-Cooperrider, K. & Mesh, K. (Under review.) Pointing in gesture and sign: One tool, many uses. [[pdf]](PDFs/Cooperrider-Mesh_Pointing+in+gesture+and+sign.pdf)
+Cooperrider, K. & Mesh, K. (Under review.) Pointing in gesture and sign: One tool, many uses. [[pdf]](https://psyarxiv.com/k3zpw)
 
 
 ### Curated Documentary Linguistic Datasets
