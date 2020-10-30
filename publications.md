@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### Articles
 
+Mesh, K. (Submitted.) It’s as far as the arm can raise: Pointing height marks target distance among the San Juan Quiahije Chatino.
+
 Mesh, K., Cruz, E., van de Weijer, J., Burenhult, N., and Gullberg, M.  (In Press.) Effects of scale on multimodal deixis: Evidence from Quiahije Chatino.  Frontiers in Psychology.
 
 Mesh, K. & Hou, L. (2018.) Negation in San Juan Quiahije Chatino Sign Language: 
