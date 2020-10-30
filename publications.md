@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Articles
 
-Mesh, K., Cruz, E., van de Weijer, J., Burenhult, N., and Gullberg, M.  (Under review.) Effects of scale on multimodal deixis: Evidence from Quiahije Chatino
+Mesh, K., Cruz, E., van de Weijer, J., Burenhult, N., and Gullberg, M.  (In Press.) Effects of scale on multimodal deixis: Evidence from Quiahije Chatino.  Frontiers in Psychology.
 
 Mesh, K. & Hou, L. (2018.) Negation in San Juan Quiahije Chatino Sign Language: 
 The Integration and Adaptation of Negative Emblems. GESTURE: 17:3 [[pdf]](/PDFs/20191125_Mesh&Hou_Negation_SJQCSL.pdf) [[supplementary materials]](https://doi.org/10.18738/T8/XUX25E)
@@ -20,7 +20,7 @@ boundary perception task. LSA Annual Meeting Extended Abstracts.
 
 ### Book Chapters
 
-Cooperrider, K. & Mesh, K. (Under review.) Pointing in gesture and sign: One tool, many uses. [[pdf]](https://psyarxiv.com/k3zpw)
+Cooperrider, K. & Mesh, K. (In press.) Pointing in gesture and sign: One tool, many uses.  In A. Morgenstern and S. Goldin-Meadow (Eds.), The Blossoming of Gesture in Language. [[pdf]](https://psyarxiv.com/k3zpw)
 
 
 ### Curated Documentary Linguistic Datasets
