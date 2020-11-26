@@ -4,6 +4,15 @@ title: Talks
 permalink: /talks/
 ---
 
+### Public Outreach
+
+<iframe width="560"
+        height="315"
+         src="https://www.youtube.com/embed/Atg_SxT_ZRI"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
+
 ### Invited Talks
 
 Mesh, K. (2018). *"Gestural analogues & the origins of signs in San Juan Quiahije Chatino Sign Language."* 
@@ -31,7 +40,8 @@ Invited Talk. Deaf Studies Speaker Series, Charles University. Prague, Czech Rep
 ### Selected Conference Talks
 
 
-Mesh, K. “Cómo la ‘descripción abierta’ impacta la documentación: Un caso de estudio en el  chatino de San Juan Quiahije.” 
+Mesh, K. “Cómo la ‘descripción abierta’ impacta la documentación: Un caso de estudio en el 
+chatino de San Juan Quiahije.” 
 Paper presentation at the CILLA 2019 Meeting. Austin, TX.  October 10-12. [[abstract]](/PDFs/Mesh_K_CILLAIX.pdf) [[slides]](/PDFs/2019-10-10_CILLA_Desc_Abierta_v4.pdf
 )
 
