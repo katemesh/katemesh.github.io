@@ -6,7 +6,7 @@ permalink: /talks/
 
 ### Public Outreach
 
-Mesh, K. (2020). *"**Here** and **there** -- Understanding communication about space."* 
+Mesh, K. (2020). *"Here and there -- Understanding communication about space."* 
 Lund University Future Week (Framtidsveckan), October 12-18.
 
 <iframe width="560"
