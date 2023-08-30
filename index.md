@@ -1,6 +1,5 @@
 ---
-layout: redirected
-sitemap: false
-permalink: /index/
-redirect_to: https://www.linkedin.com/in/kate-mesh/
+layout: redirout
 ---
+
+<a href="https://www.linkedin.com/in/kate-mesh/">Redirecting to work profile</a>
