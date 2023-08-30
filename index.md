@@ -7,8 +7,7 @@ layout: default
 I'm a linguist studying how hearing people gesture while they speak, and how deaf people 
 adapt many of these gestures to use in young sign languages that are just now being created. 
 My research is fieldwork-based and typological: I compare how gesturers and signers across cultures recruit 
-the body for meaning-making, focusing on how people use the body to draw attention to their 
-real-world surroundings. 
+the body for meaning-making, focusing on how people use the body to draw attention to their surroundings. 
 
 Email: [kate.mesh@lu.humlab.se](mailto:kate.mesh@humlab.lu.se) 
 
